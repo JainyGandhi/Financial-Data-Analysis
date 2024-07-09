@@ -1,5 +1,4 @@
 # Financial-Data-Analysis
- Sure! Here's a draft for your README file on GitHub, incorporating the key topics explored:  
 Welcome to the Financial Data Analysis and Visualization project! This repository contains a comprehensive guide and resources for leveraging Power Query to preprocess and transform financial data, and subsequently create insightful and dynamic financial dashboards and reports.
 
 **⭐ Key Topics Explored ⭐**
