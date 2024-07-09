@@ -1,5 +1,7 @@
 # Financial-Data-Analysis
 Welcome to the Financial Data Analysis and Visualization project! This repository contains a comprehensive guide and resources for leveraging Power Query to preprocess and transform financial data, and subsequently create insightful and dynamic financial dashboards and reports.
+![image](https://github.com/JainyGandhi/Financial-Data-Analysis/assets/58180373/429ce4ed-45db-4b84-92f4-63ac42c875c0)
+
 
 **⭐ Key Topics Explored ⭐**
 Data Preprocessing and Transformation with Power Query: Learn how to clean, structure, and prepare your financial data for analysis using Power Query.
